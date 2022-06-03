@@ -1,1 +1,2 @@
 # FLIP_FLOPS
+Flip-flops, also known as latches are devices that store data. They often consist of stable input (often one or more), and one or two outputs. They are the most basic building blocks for electronic devices such as microcontrollers. Flip-flops can either be simple or clocked with the most common types being SR (set-reset), D (data), T(Toggle) and JK types. This repository seeks to simulate these types to aid in better visualization of the inner workings of these intriguing circuitries.
